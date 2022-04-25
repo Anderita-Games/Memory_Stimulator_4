@@ -173,3 +173,22 @@ Received Import Request.
   path: Assets/Roboto-Black.ttf
   artifactKey: Guid(d5a7c9ecc351342418eb7a642f5e65ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Roboto-Black.ttf using Guid(d5a7c9ecc351342418eb7a642f5e65ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91dbe39154734b33be84b5aff1e59ef3') in 0.159976 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 44 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 44 unused Assets / (22.9 KB). Loaded Objects now: 2652.
+Memory consumption went from 142.9 MB to 142.9 MB.
+Total: 4.717958 ms (FindLiveObjects: 0.082292 ms CreateObjectMapping: 0.026625 ms MarkObjects: 4.593375 ms  DeleteObjects: 0.015333 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
